@@ -1,9 +1,8 @@
 ### Hi there, I'm shruti 👋
 
 ## I'm learner,
-- 🔭 I’m currently learning NextJs and ThreeJs and looking forward to some exiting projects!
-- 🌱 I’m currently a computer science student working on ReactJs project.
-- 🥅 2021 Goals: Learn some new tech and work on some projects!
+- 🔭 I’m currently learning NextJs and looking forward to some exiting projects!
+- 🥅 2022 Goals: Learn some new tech and work on some projects!
 - ⚡ My love: painting and reading( lets discuss books!!) 
 
 ### Connect with me:
