@@ -1,8 +1,8 @@
 ### Hi there, I'm shruti 👋
 
 ## I'm learner,
-- 🔭 I’m currently learning NextJs and looking forward to some exiting projects!
-- 🥅 2022 Goals: Learn some new tech and work on some projects!
+- 🔭 I’m currently learning React Native and looking forward to some exiting projects!
+- 🥅 2024 Goals: Learn some new tech and work on some projects!
 - ⚡ My love: painting and reading( lets discuss books!!) 
 
 ### Connect with me:
